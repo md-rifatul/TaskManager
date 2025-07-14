@@ -13,7 +13,3 @@ A simple ASP.NET Core Web API for managing tasks. This project demonstrates basi
 - ❌ Delete a task
 
 ---
-
-## 📁 Project Structure
-
-![Project Structure](Assets/Project-Structure.png)
