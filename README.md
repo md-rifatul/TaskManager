@@ -16,4 +16,4 @@ A simple ASP.NET Core Web API for managing tasks. This project demonstrates basi
 
 ## 📁 Project Structure
 
-![Project Structure](assets/Project-Structure.png)
+![Project Structure](Assets/Project-Structure.png)
